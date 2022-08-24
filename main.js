@@ -8,4 +8,4 @@ array.forEach(element => {
     (name) => {
 
     }
-});
+});function endClass(time){}
